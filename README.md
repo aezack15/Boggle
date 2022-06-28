@@ -7,5 +7,5 @@ To compile: ```g++ -std=c++20 -o boggle boggle.cpp```
 To execute: ```./boggle```
 
 ### Misc
-Dictionary.txt is also provided to compare potential words to.
+dictionary.txt is also provided to compare potential words to.
   
